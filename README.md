@@ -88,8 +88,8 @@ In conclusion, the Gold Price Analysis and Forecasting project provided signific
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/gold-price-analysis.git
-    cd gold-price-analysis
+    git clone (https://github.com/bhkritika/Gold-Price-Analysis-and-Forecasting)
+    cd gold-price-analysis-and-forecasting
     ```
 2. Run the Jupyter notebook to see the analysis and forecasting:
     ```bash
